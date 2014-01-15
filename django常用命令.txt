@@ -1,0 +1,12 @@
+安装DJANGO
+
+下载好django-xxx-xx.gz解压，用dos在该目录下运行
+python setup.py install
+
+测试Django安装
+>>> import django
+>>> django.VERSION
+
+
+
+
